@@ -1,9 +1,10 @@
-#include <stdio>
+#include <iostream>
 
+using namespace std;
+ 
+int main()
+{
+    cout << "Hello world, C++!" << endl;
+    return 0;
 
-int main(){
-	
-	printf("Hello world");
-	return 0;
-	
 }
