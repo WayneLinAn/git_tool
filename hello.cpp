@@ -1,8 +1,8 @@
-#include "stdio"
-#include"stdlib"
-
-int main(){
-	
-	printf("Hello world");
-	
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+    cout << "Hello, C++!" << endl;
+    return 0;
 }
